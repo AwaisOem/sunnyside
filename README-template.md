@@ -1,2 +1,2 @@
 # Sunnyside agency landing page Resposive - Frontend Mentor
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Link](https://sunny-side-practice.netlify.app/)
